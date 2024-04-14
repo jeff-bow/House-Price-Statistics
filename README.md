@@ -13,7 +13,7 @@ Skills Showcased
 
 [View more projects like this!](https://jeff-bow.github.io/)
 
-[PDF Output of this Data!]([https://jeff-bow.github.io/](https://github.com/jeff-bow/House-Price-Statistics/blob/main/Regression%20Output.pdf))
+[PDF Output of this Data!](https://github.com/jeff-bow/House-Price-Statistics/blob/main/Regression%20Output.pdf)
 
 # Preparing the Data:
 
