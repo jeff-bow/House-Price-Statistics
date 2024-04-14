@@ -30,9 +30,11 @@ The data contained a possible outlier in 'house prices' that would have skewed t
 Each column of the dataset needed to be understood and categorised as either nominal, nominal text, ordinal, or continuous.
 
 Symbols used to identify data type:
+
 ![](images/data_types.png)
 
 Once I interpreted the data types of each column, the dataset looked as follows:
+
 ![](images/data_sample.png)
 
 # Univariate Statistics:
