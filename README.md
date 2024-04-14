@@ -1,3 +1,5 @@
+# Sentiment Analysis of Amazon Reviews on an Electrical Product
+
 # About
 
 This project uses house price data given to us by our lecturer to conduct statistical anaylsis using Jamovi. Jamovi is a free and open-source statistical software designed to be an easy-to-use alternative to mainstream statistical tools such as IBMs SPSS. Built on top of the R statistical programming language, Jamovi offers a user-friendly graphical interface that simplifies data analysis for users who may not be familiar with programming.
